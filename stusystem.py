@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 filename='student.txt'
 def main():
